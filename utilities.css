@@ -23,46 +23,6 @@ i, a {
     justify-content: space-evenly;
 }
 
-.items{
-    background-color: blue;
-    color: aqua;
-    min-width: 32px;
-    min-height: 32px;
-    width: fit-content;
-    height: fit-content;
-    border-radius: 5px;
-    padding: 5px;
-    text-align: center;
-}
-
-.bg-trans{
-    background-color: transparent;
-}
-
-.full-width{
-    width: 100%;
-}
-
-.color-black{
-    color: black;
-}
-
-.bg-black{
-    background-color: black;
-}
-
-.color-aqua{
-    color: aqua;
-}
-
-.bg-aqua{
-    background-color: aqua;
-}
-
-.margin{
-    margin: 10px;
-}
-
 .title{
     font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -127,4 +87,44 @@ i, a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.items{
+    background-color: blue;
+    color: aqua;
+    min-width: 32px;
+    min-height: 32px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.bg-trans{
+    background-color: transparent;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.color-black{
+    color: black;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.color-aqua{
+    color: aqua;
+}
+
+.bg-aqua{
+    background-color: aqua;
+}
+
+.margin{
+    margin: 10px;
 }
